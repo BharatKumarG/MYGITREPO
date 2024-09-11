@@ -1,14 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Divya Vasant Satpute</h1>
+<h1 align="center">Hi 👋, I'm Guduru Bharat Kumar</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BharatKumarG" alt="BharatKumarG" /></a> </p>
 
 - 🌱 I’m currently learning **frameworks , devops tools**
 
-- 📫 How to reach me **divyasatpute822@gmail.com**
+- 📫 How to reach me **gudurubharatkumar8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
